@@ -63,11 +63,12 @@ a>h4 {
 .btn-primary-outline,
 button.btn.btn-primary-outline.disabled.ng-star-inserted,
 .btn.btn-primary-outline.ng-star-inserted {
-	color: #FFFFFF !important;
-	border-color: #FFFFFF !important;
+        background-color: #d9534f;
+        border-color: #d9534f !important;
 }
 
-.btn-info-outline, button.btn.btn-sm.btn-info-outline {
+.btn-info-outline, 
+button.btn.btn-sm.btn-info-outline {
         color: #FFFFFF !important;
         background-color: #d9534f;
         border-color: #d9534f !important;
