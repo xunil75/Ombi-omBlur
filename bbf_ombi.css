@@ -383,14 +383,3 @@ issues-table table.table.table-striped.table-hover.table-responsive.table-conden
 .error-text {
 	display: inline-block;
 }
-
-.btn-danger-outline {
-    -o-transition: all .218s!important;
-    -moz-transition: all .218s!important;
-    -webkit-transition: all .218s!important;
-    transition: all .218s!important;
-    color: #ffffff!important;
-    background-color: #d9534f!important;
-    background-image: none!important;
-    border-color: #d9534f!important;
-}
