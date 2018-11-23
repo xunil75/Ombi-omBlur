@@ -63,15 +63,14 @@ a>h4 {
 .btn-primary-outline,
 button.btn.btn-primary-outline.disabled.ng-star-inserted,
 .btn.btn-primary-outline.ng-star-inserted {
-        background-color: #d9534f;
-        border-color: #d9534f !important;
+	color: #FFFFFF !important;
+	border-color: #FFFFFF !important;
 }
 
-.btn-info-outline, 
+.btn-info-outline,
 button.btn.btn-sm.btn-info-outline {
-        color: #FFFFFF !important;
-        background-color: #d9534f;
-        border-color: #d9534f !important;
+	color: #FFFFFF !important;
+	border-color: #FFFFFF !important;
 }
 
 .btn-info-outline:hover {
@@ -221,10 +220,11 @@ a.active {
 }
 
 .btn-success-outline {
-         color: #FFFFFF !important;
-         background-color: #39b339;
-         border-color: #39b339 !important;
+	color: #FFFFFF !important;
+	background-color: rgba(92, 182, 92, .75);
+	border-color: #5cb85c !important;
 }
+
 .btn-split .btn.dropdown-toggle {
 	padding: 7.5px 10px;
 }
