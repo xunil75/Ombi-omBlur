@@ -64,8 +64,9 @@ a>h4 {
 .btn-primary-outline,
 button.btn.btn-primary-outline.disabled.ng-star-inserted,
 .btn.btn-primary-outline.ng-star-inserted {
-        background: #456788;
-        border-color: #456788 !important;
+	color: #FFFFFF !important;
+	background: #417ea2ad;
+	border-color: #42708c !important;
 }
 
 .btn-info-outline,
