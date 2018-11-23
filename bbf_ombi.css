@@ -9,7 +9,7 @@ body {
 	-o-background-size: auto, cover;
 	min-height: 100%;
 	height: auto;
-	opacity: 0.5;
+	opacity: 0.9;
 	background-color: rgba(0, 0, 0, .0);
 }
 
@@ -262,7 +262,7 @@ a.active {
 	-webkit-background-size: auto, cover;
 	-moz-background-size: auto, cover;
 	-o-background-size: auto, cover;
-	opacity: 0.5;
+	opacity: 0.9;
 }
 
 table.table>thead>tr>th.active {
