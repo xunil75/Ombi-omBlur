@@ -211,7 +211,7 @@ a.active {
 
 .ui-sidebar-left.ui-sidebar-active,
 .ui-sidebar-right.ui-sidebar-active {
-	background-image: url("https://archmonger.github.io/Blackberry-Flat/Resources/blur-noise.png"), url("https://archmonger.github.io/Blackberry-Flat/Resources/blur-light.png") !important;
+	background-image: url("https://archmonger.github.io/Blackberry-Flat/Resources/blur-noise.png"), url("http://7-themes.com/data_images/out/19/6831380-movie-wallpapers.jpg") !important;
 	background-repeat: repeat, no-repeat !important;
 	background-attachment: fixed, fixed !important;
 	background-position: center center, center center !important;
@@ -253,7 +253,7 @@ a.active {
 }
 
 .app-loading-container {
-	background-image: url("https://archmonger.github.io/Blackberry-Flat/Resources/blur-noise.png"), url("https://archmonger.github.io/Blackberry-Flat/Resources/blur-light.png");
+	background-image: url("https://archmonger.github.io/Blackberry-Flat/Resources/blur-noise.png"), url("http://7-themes.com/data_images/out/19/6831380-movie-wallpapers.jpg");
 	background-repeat: repeat, no-repeat;
 	background-attachment: fixed, fixed;
 	background-position: center center, center center;
