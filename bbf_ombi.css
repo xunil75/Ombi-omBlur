@@ -150,14 +150,9 @@ a {
 	color: rgba(255, 255, 255, .25);
 }
 
-.btn-primary-outline.active,
-.btn-primary-outline.focus,
-.btn-primary-outline:active,
-.btn-primary-outline:focus,
-.btn-primary-outline:hover,
-.open>.btn-primary-outline.dropdown-toggle {
-	background-color: rgba(255, 255, 255, .25) !important;
-	border-color: rgba(255, 255, 255, .25) !important;
+.btn-primary-outline.active, .btn-primary-outline.focus, .btn-primary-outline:active, .btn-primary-outline:focus, .btn-primary-outline:hover, .open>.btn-primary-outline.dropdown-toggle {
+    background-color: rgb(191, 107, 6) !important;
+    border-color: rgb(191, 107, 6) !important;
 }
 
 .input-group-addon .btn-group .btn {
