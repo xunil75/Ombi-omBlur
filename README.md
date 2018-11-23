@@ -3,7 +3,7 @@ layer.cake Theme Modified for Ombi
 
 # Paste this code under:
 
-
+* Settings - Configuration - Customization - Preset Themes - omBlur BROKEN
 
 ```
 /* omBlur.alpha-leram84 */
