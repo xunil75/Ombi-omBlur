@@ -160,6 +160,7 @@ a {
 
 .input-group-addon .btn-group .btn {
 	border: 1px solid hsla(0, 0%, 100%, .25)!important;
+	background: #485563;
 }
 
 .btn-group-sm>.btn,
