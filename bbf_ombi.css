@@ -70,7 +70,7 @@ button.btn.btn-primary-outline.disabled.ng-star-inserted,
 .btn-info-outline,
 button.btn.btn-sm.btn-info-outline {
         color: #FFFFFF !important;
-        background: #d9534f;
+        background: #d9534f !important;
         border-color: #d9534f !important;
 }
 
