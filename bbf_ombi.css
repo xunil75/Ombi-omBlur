@@ -386,17 +386,16 @@ issues-table table.table.table-striped.table-hover.table-responsive.table-conden
 
 .label-warning {
 background-color: #004A7F;
-  -webkit-border-radius: 10px;
-  border-radius: 2px;
+  border-radius: .25em;
   border: none;
   color: #FFFFFF;
-  cursor: pointer;
-  display: inline-block;
-  font-family: Arial;
-  font-size: 10px;
-  padding: 3px 1px;
+  display: inline;
+  vertical-align: baseline;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  padding: .2em .6em .3em;
   text-align: center;
-  text-decoration: none;
   -webkit-animation: glowing 1500ms infinite;
   -moz-animation: glowing 1500ms infinite;
   -o-animation: glowing 1500ms infinite;
