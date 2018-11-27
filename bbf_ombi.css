@@ -383,3 +383,45 @@ issues-table table.table.table-striped.table-hover.table-responsive.table-conden
 .error-text {
 	display: inline-block;
 }
+
+.label-warning {
+background-color: #004A7F;
+  -webkit-border-radius: 10px;
+  border-radius: 2px;
+  border: none;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Arial;
+  font-size: 10px;
+  padding: 3px 1px;
+  text-align: center;
+  text-decoration: none;
+  -webkit-animation: glowing 1500ms infinite;
+  -moz-animation: glowing 1500ms infinite;
+  -o-animation: glowing 1500ms infinite;
+  animation: glowing 1500ms infinite;
+}
+@-webkit-keyframes glowing {
+  0% { background-color: #e89928; -webkit-box-shadow: 0 0 3px #e89928; }
+  50% { background-color: #f0ad4e; -webkit-box-shadow: 0 0 40px #f0ad4e; }
+  100% { background-color: #d8830a; -webkit-box-shadow: 0 0 3px #d8830a; }
+}
+
+@-moz-keyframes glowing {
+  0% { background-color: #e89928; -moz-box-shadow: 0 0 3px #e89928; }
+  50% { background-color: #f0ad4e; -moz-box-shadow: 0 0 40px #f0ad4e; }
+  100% { background-color: #d8830a; -moz-box-shadow: 0 0 3px #d8830a; }
+}
+
+@-o-keyframes glowing {
+  0% { background-color: #e89928; box-shadow: 0 0 3px #e89928; }
+  50% { background-color: #f0ad4e; box-shadow: 0 0 40px #f0ad4e; }
+  100% { background-color: #d8830a; box-shadow: 0 0 3px #d8830a; }
+}
+
+@keyframes glowing {
+  0% { background-color: #e89928; box-shadow: 0 0 3px #e89928; }
+  50% { background-color: #f0ad4e; box-shadow: 0 0 40px #f0ad4e; }
+  100% { background-color: #d8830a; box-shadow: 0 0 3px #d8830a; }
+}
