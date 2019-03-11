@@ -1,36 +1,11 @@
-# Ombi-omBlur
-layer.cake Theme Modified for Ombi
+# Ombi-Custom CSS
 
-# Paste this code under:
+Theme Modified for Ombi
 
-* Settings - Configuration - Customization - Preset Themes - omBlur BROKEN
+# Paste the code from this custom.css under:
 
-```
-/* omBlur.alpha-leram84 */
-:root {
-    --color-one:       #42b382;
-    --color-two:       #e9585b;
-    --color-three:     #3f51b5;
-    --color-four:      #83B0DC;
-}
-</style>
-<link rel="stylesheet" type="text/css" href="/api/v1/Settings/ThemeContent?url=https://raw.githubusercontent.com/xunil75/Ombi-omBlur/master/bbf_ombi.css">
-<!--           _      _    _                     _    _      _               -->
-<!--          /_\  __| |__| |___ _ _            | |  (_)_ _ | |__ ___        -->
-<!--         / _ \/ _` / _` / _ \ ' \           | |__| | ' \| / /(_-<        -->
-<!--        /_/ \_\__,_\__,_\___/_||_|          |____|_|_||_|_\_\/__/        -->
-<!-- \/\/\/\/\/\/\/\/\/   Paste your add-on links below   \/\/\/\/\/\/\/\/\/ -->
+* Settings - Configuration - Customization
+
+![Ombi](https://user-images.githubusercontent.com/32961904/54137742-79855680-441e-11e9-857c-1a832fb7d1c9.png)
 
 
-
-
-<!-- /\/\/\/\/\/\/\/\/\   Paste your add-on links above   /\/\/\/\/\/\/\/\/\ -->
-<!--           _      _    _                     _    _      _               -->
-<!--          /_\  __| |__| |___ _ _            | |  (_)_ _ | |__ ___        -->
-<!--         / _ \/ _` / _` / _ \ ' \           | |__| | ' \| / /(_-<        -->
-<!--        /_/ \_\__,_\__,_\___/_||_|          |____|_|_||_|_\_\/__/        -->
-<style>
-
-```
-
-![ombi](https://user-images.githubusercontent.com/32961904/48979441-16fc8a80-f0bb-11e8-8adb-038e43e89711.jpg)
