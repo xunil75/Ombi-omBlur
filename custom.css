@@ -524,14 +524,14 @@ input#search:focus, .form-control-custom:focus {
 }
 /* Mobile Fixes */
 ul.nav.navbar-nav.navbar-right li:first-child {
-  display: none;
+  display: list-item;
 }
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
   background-color: rgba(0, 0, 0, 0);
 }
 @media only screen and (max-width: 768px) {
   ul.nav.navbar-nav.navbar-right li:first-child {
-    display: block !important;
+    display: list-item !important;
   }
   .navbar-nav>li>a {
     padding-left: 30px;
