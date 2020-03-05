@@ -35,6 +35,24 @@ input#search,
 .form-control-search[_ngcontent-c2] {
   width: 100%;
 }
+.messages[_ngcontent-c2] {
+    background: #666 !important;
+}
+.msg_container_base[_ngcontent-c2] {
+    background: #4c5153 !important;
+}
+.messages[_ngcontent-c1] {
+    background: #666 !important;
+}
+.msg_container_base[_ngcontent-c1] {
+    background: #4c5153 !important;
+}
+.panel-footer[_ngcontent-c1] {
+    background-color: #4c5153 !important;
+}
+.chat-window .col-xs-12 .panel .panel-footer .input-group .form-control {
+    background-color: rgb(66, 66, 66) !important;
+}
 .input-group-btn:last-child>.btn {
   margin-left: 0px;
   height: 41px;
@@ -301,7 +319,7 @@ table.table>tbody>tr>td {
 }
 .ui-sidebar-left.ui-sidebar-active,
 .ui-sidebar-right.ui-sidebar-active {
-  background-image: url("https://archmonger.github.io/Blackberry-Themes/Resources/blur-noise.png"), url("https://archmonger.github.io/Blackberry-Themes/Resources/blur-light.png") !important;
+  background-image: url("images/blur-noise.png"), url("images/blur-light.png") !important;
   background-repeat: repeat, no-repeat !important;
   background-attachment: fixed, fixed !important;
   background-position: center center, center center !important;
@@ -341,7 +359,7 @@ table.table>tbody>tr>td {
   border-bottom: none;
 }
 .app-loading-container {
-  background-image: url("https://archmonger.github.io/Blackberry-Themes/Resources/blur-noise.png"), url("https://archmonger.github.io/Blackberry-Themes/Resources/blur-light.png");
+  background-image: url("images/blur-noise.png"), url("images/blur-light.png");
   background-repeat: repeat, no-repeat;
   background-attachment: fixed, fixed;
   background-position: center center, center center;
