@@ -2,7 +2,9 @@
 
 Theme Modified for Ombi
 
-# Download the images to your Ombi directory in my case under /opt/Ombi/wwwroot/images
+# Download the images to your Ombi directory 
+
+* In my case under /opt/Ombi/wwwroot/images
 
 # Paste the code from this custom.css under:
 
