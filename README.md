@@ -1,6 +1,6 @@
 # Ombi-Custom CSS
 
-Theme Modified for Ombi
+Modified Theme for Ombi (V3)
 
 # Download the images to your Ombi directory 
 
