@@ -428,6 +428,10 @@ issues-table table.table.table-striped.table-hover.table-responsive.table-conden
 .row.issue-details h1 {
   margin-left: 15px;
 }
+/* Issues chat window and input styling */
+.messages[_ngcontent-c1] > p[_ngcontent-c1] {
+  color: #000;
+}
 .chat-window .col-xs-12 .panel .panel-footer {
   border-radius: 0px 0px 5px 5px;
 }
@@ -442,10 +446,23 @@ issues-table table.table.table-striped.table-hover.table-responsive.table-conden
   padding-left: 1px;
   padding-top: 5px !important;
 }
+.chat-window .col-xs-12 .panel .panel-footer .input-group .input-group-btn {
+  padding-left: 1px;
+  padding-top: 5px !important;
+}
 .chat-window .col-xs-12 .panel .panel-footer .input-group .form-control {
   height: 38px;
+  width: 315px;
   margin-top: 5px;
   background-color: rgba(255, 255, 255, .08);
+}
+.chat-window .col-xs-12 .panel .panel-footer .input-group #btn-input {
+  width: 315px;
+}
+.chat-window .col-xs-12 .panel .panel-footer .input-group #btn-input:focus {
+  color: #000;
+  width: 315px;
+  background-color: rgba(255, 255, 255, .0);
 }
 .chat-window .col-xs-12 .panel .panel-footer .input-group .input-group-btn .btn-primary {
   background-color: rgba(204, 123, 25, 1) !important;
